@@ -1,0 +1,15 @@
+{
+  "name": "laboratorio-opencode-vscode",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Proyecto de verificación para OpenCode + Visual Studio Code",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "test": "node --test",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
